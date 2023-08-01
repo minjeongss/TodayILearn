@@ -8,7 +8,7 @@ WIL는 [기술 블로그](https://jeonge.tistory.com/)에 기재합니다.
 - 공부의 지속성 높이기
 - 기록의 생활화
 
-## 형태
+## 형태: `Template/example.md`에서 확인 가능
 - 이룬 일
 - 해결한 부분
 - 배운 부분
