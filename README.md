@@ -2,7 +2,7 @@
 하루하루 공부한 기록을 적습니다.
 
 TIL을 바탕으로 WIL을 기록합니다. 
-WIL는 [기술 블로그](https://jeonge.tistory.com/)에 기재합니다.
+WIL는 [기술 블로그](https://jeonge.tistory.com/category/%ED%9A%8C%EA%B3%A0/WIL%20-%20Week%20I%20Learned)에 기재합니다.
 
 ## 목적
 - 공부의 지속성 높이기
