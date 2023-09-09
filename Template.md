@@ -1,4 +1,4 @@
-# 🏝️ Year.Month.Day TIL
+# 🍀 Year.Month.Day TIL
 ## 이룬 일
 ## 해결한 부분
 ## 배운 부분
