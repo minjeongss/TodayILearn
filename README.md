@@ -7,6 +7,7 @@ WIL는 [기술 블로그](https://jeonge.tistory.com/category/%ED%9A%8C%EA%B3%A0
 ## 목적
 - 공부의 지속성 높이기
 - 기록의 생활화
+- WIL을 통한 한 주 복습
 
 ## 형태: `Template/example.md`에서 확인 가능
 - 이룬 일
