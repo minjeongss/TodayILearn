@@ -1,4 +1,6 @@
 #   [커밋 타입]  리스트
+#   [Add]     : TIL 추가
+#   [Edit]    : TIL 수정
 #   feat      : 기능 (새로운 기능)
 #   fix       : 버그 (버그 수정)
 #   refactor  : 리팩토링
@@ -6,10 +8,13 @@
 #   docs      : 문서 (문서 추가, 수정, 삭제)
 #   test      : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)
 #   chore     : 기타 변경사항 (빌드 스크립트 수정 등)
-#   [Add]     : TIL 추가
-#   [Edit]    : TIL 수정
 
 # example1
 # [Add]  TIL
 #
 # TIL 업로드 완료!
+
+# example1
+# [Edit]  TIL
+#
+# TIL 수정 완료!
