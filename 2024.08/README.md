@@ -7,7 +7,15 @@
 - [ ] JS 심화 공부 계획 세우기
   - 유사 배열
   - DOM 조작 이벤트 처리
+  - 로컬 스토리지, 세션 저장소, 쿠키
   - 메모리
+    - task queue
+    - microtask queue
+    - animation frames
+  - 브라우저 렌더링 단계
+  - 애니메이션 스크립팅
+    - 타이머 함수
+    - requestAnimationFrame
   - 자바스크립트 엔진
   - scope 렉시컬 환경
   - 최적화
