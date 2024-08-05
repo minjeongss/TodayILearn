@@ -14,7 +14,7 @@
     - animation frames
   - 브라우저 렌더링 단계
   - 애니메이션 스크립팅
-    - 타이머 함수
+    - 타이머 함수(setInterval)
     - requestAnimationFrame
   - 자바스크립트 엔진
   - scope 렉시컬 환경
@@ -40,6 +40,8 @@
 
 #### 미완료
 
-- [ ] 그룹 미션 스스로 다시 해결하기
-  - two depth nav bar 구현
 - [ ] DigitalAgency FT님 피드백 반영하여 코드 개선
+- [ ] 슬라이더 $slider 지역화>전역화
+- [x] 그룹 미션 스스로 다시 해결하기
+  - two depth nav bar 구현
+    => 진행하지 않음!
